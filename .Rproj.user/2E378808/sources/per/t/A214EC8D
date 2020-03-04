@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580377942085.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1285238631",
+    "id" : "A214EC8D",
+    "lastKnownWriteTime" : 1580400012,
+    "last_content_update" : 1580400012663,
+    "path" : "C:/Users/Usuario/Desktop/Data/Projects/3. IoT Analytics/datathon - store prediction/script/datathon - store prediction.R",
+    "project_path" : "script/datathon - store prediction.R",
+    "properties" : {
+        "cursorPosition" : "135,37",
+        "scrollLine" : "120",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
